@@ -14,5 +14,7 @@ You can make up to 34 ender pearls with it.
   + redstone dust into slot 16;
 * This picture shows the number of each slot: ![slots](slotnumbers.png)
   * It has been acquired from https://ocdoc.cil.li/api:robot
-* Below we can see the spaces where the robot travels when the program is running. Make sure to avoid them to prevent eventual problems.
+* Make sure that you have a 3*4*3 space avaliable so that the robot can function properly.
+* Do not go into said space while the robot is working.
+* The image below should help (probably).
 * ![places](robotspaces.png)
